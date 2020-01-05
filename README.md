@@ -9,4 +9,19 @@ only if Python 3.7 and Jupyter is alread installed in your computer (Linux/Windo
 
 3. The codes in the notebook would be mandatory for any newbie or a good practice if you wanted the notebook to be used by anybody around the globe expecting they do not have any tools installed in thier computer.
 
+Install the following before running cells in the Jupyter Notebook
+
+Python 3.7.6
+Windows  --  https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe
+Mac OSX  --  https://www.python.org/ftp/python/3.7.6/python-3.7.6-macosx10.9.pkg
+Linux    --  Not required as it is preinstalled
+
+After installation of Python run the following command
+
+pip install jupyter
+
+After installation, run the following command
+
+jupyter notebook
+
 Happy Coding!
