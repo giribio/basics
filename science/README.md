@@ -95,9 +95,9 @@ conda install -c conda-forge mdanalysis
 An IPython widget to interactively view molecular structures and trajectories. Utilizes the embeddable NGL Viewer for rendering.
 
 ```bash
-conda install -c conda-forge nglview
+pip install nglview
 jupyter-nbextension enable nglview --py --sys-prefix
-jupyter labextension install  nglview-js-widgets
+jupyter labextension install  nglview-js-widgets ##only for jupyterlab
 ```
 
 ## R package
