@@ -43,6 +43,6 @@ Install the following before running cells in the Jupyter Notebook
 
 6. Install wget or curl (very useful for you to download any files via terminal or command-promp tin Win, Linux or MacOSX)
 
-  Windows  --  https://eternallybored.org/misc/wget/1.20.3/64/wget.exe
+        Windows  --  https://eternallybored.org/misc/wget/1.20.3/64/wget.exe
 
 Happy Coding!
