@@ -6,7 +6,7 @@ How to start with Jupyter, Python (pip), library, streamlit, heroku, pickle, Git
 I personally recommend you to start with Python 3.8+ (2.x versions are going to depreciate)
 
 [Installation Video Tutorial](https://www.youtube.com/watch?v=n0ln_41Dq0g)
-[KNIME and Orange Quick Tutorial](https://youtu.be/R7FYypCUasc?t=2499)
+[KNIME and Orange Quick Tutorial](https://youtu.be/R7FYypCUasc?t=2499) - to generate ML, Stat models, deploy and others without coding
 
 ### 1. Install Anaconda (ensure the environments are set properly after installation)
 
@@ -27,7 +27,17 @@ https://docs.anaconda.com/anaconda/install/linux/
 https://docs.anaconda.com/anaconda/install/mac-os/
 ```
 
-### 2. To upgrade existing version (already installed)
+### 2. To set environments (already installed)
+  
+You could choose set the conda 'base' environment as default or not..
+If you choose anaconda 'base'environment not to be default, then follow the steps:
+Run the following commands on your terminal or command-prompt
+```bash 
+  source ~/anaconda3/bin/activate
+  conda init
+```
+
+### 3. To upgrade existing version (already installed)
   
 Run the following commands on your terminal or command-prompt
 ```bash 
@@ -84,7 +94,7 @@ Web Link
 https://mybinder.org/
 ```
 
-### 4. Install Git (ensure you run from terminal/command-line and then source conda to push to heroku)
+### 4. Install Git (ensure you run from terminal/command-line and then source conda)
 
 Installation Link
 ```bash
@@ -130,7 +140,7 @@ Direct Link
 https://zenodo.org/
 ```
 
-### 8. Learn coding and participate in competitions
+### 9. Learn coding and participate in competitions
 
 Direct Link
 ```bash
