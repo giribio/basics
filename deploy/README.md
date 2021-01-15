@@ -27,13 +27,14 @@ https://docs.anaconda.com/anaconda/install/linux/
 https://docs.anaconda.com/anaconda/install/mac-os/
 ```
 
-### 2. To set environments (already installed)
+### 2. To set environments in terminal (already installed)
   
 You could choose set the conda 'base' environment as default or not..
 If you choose anaconda 'base'environment not to be default, then follow the steps:
 Run the following commands on your terminal or command-prompt
 ```bash 
-  source ~/anaconda3/bin/activate
+  source ~/anaconda3/bin/activate (linux or mac)
+  C:/anaconda3/condabin/activate.bat (windows) - check the installation path
   conda init
 ```
 
@@ -61,9 +62,9 @@ https://docs.anaconda.com/anaconda/install/update-version/
   
   c. Open Anaconda Navigator with the command 'anaconda-navigator'. If Anaconda is installed properly, Anaconda Navigator (GUI) will open.
 
-### 4. 'conda' helps you to install other libraries mainly required for cheminformatics, analysis, machine learning, image analysis, SAR studies, forcefield analysis, MD analysis and many others including plotting graphs.
+4. 'conda' helps you to install other python libraries.
 
-### 5. The codes in the notebook would be mandatory for any newbie or a good practice if you wanted the notebook to be used by anybody around the globe expecting they do not have any library for the research area installed in their computer.
+5. The codes in the notebook would be mandatory for any newbie or a good practice if you wanted the notebook to be used by anybody around the globe expecting they do not have any library for the research area installed in their computer.
 
 Install the following before running cells in the Jupyter Notebook
 
