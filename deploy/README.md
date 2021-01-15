@@ -94,26 +94,7 @@ Web Link
 https://mybinder.org/
 ```
 
-### 4. Install Git (ensure you run from terminal/command-line and then source conda)
-
-Installation Link
-```bash
-https://git-scm.com/downloads
-```
-
-### 5. Install Heroku (ensure you run from terminal/command-line and then source conda to push to heroku)
-
-Direct Installation Link
-```bash
-https://devcenter.heroku.com/articles/heroku-cli#download-and-install
-```
-
-conda Installation Link
-```bash
-https://anaconda.org/search?q=heroku
-```
-
-### 6. Install Streamlit (ensure anacoda environments set properly)
+### 4. Install Streamlit (ensure anacoda environments set properly)
 
 conda/pip Installation
 ```bash
@@ -126,11 +107,30 @@ Online depolyment account request
 https://share.streamlit.io/
 ```
 
-### 7. Install Github Desktop (to push/pull repositories)
+### 5. Install Git (ensure you run from terminal/command-line and then source conda)
+
+Installation Link
+```bash
+https://git-scm.com/downloads
+```
+
+### 6. Install Github Desktop (to push/pull repositories)
 
 Direct Installation Link
 ```bash
 https://desktop.github.com/
+```
+
+### 7. Install Heroku (ensure you run from terminal/command-line and then source conda to push to heroku)
+
+Direct Installation Link
+```bash
+https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+```
+
+conda Installation Link
+```bash
+https://anaconda.org/search?q=heroku
 ```
 
 ### 8. Publish codes with DOI (release from GitHub)
