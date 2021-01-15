@@ -1,6 +1,6 @@
 ### Compiled by Girinath G Pillai, [Webpage](https://bit.ly/giribio20)
 
-## [Video Tutorial](https://www.youtube.com/watch?v=CX9nK1Rx8pE)
+## Live demo  [Video Tutorial](https://www.youtube.com/watch?v=CX9nK1Rx8pE)
 
 # Installation Steps on Anaconda
 How to start with Jupyter, Python (pip), library, streamlit, heroku, pickle, Github along with Anaconda (conda)
