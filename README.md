@@ -5,4 +5,12 @@ How to start with Jupyter, Python (pip), libs, Github along with Anaconda (conda
 
 I personally recommend you to start with Python 3.8+ (2.x versions are going to depreciate)
 
+Please contact me if you require more workflows and other data.
+
+Email: pillai @ nyroindia.org  (remove spaces)
+
+Include your name, affliation, purpose of usage!
+
+Thanks!
+
 Happy Coding!
