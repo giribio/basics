@@ -5,7 +5,7 @@
 # Installation Steps on Anaconda
 How to start with Jupyter, Python (pip), library, streamlit, heroku, pickle, Github along with Anaconda (conda)
 
-I personally recommend you to start with Python 3.8+ (2.x versions are going to depreciate)
+I personally recommend you to start with Python 3.6+ (2.x versions are going to depreciate)
 
 [Installation Video Tutorial](https://www.youtube.com/watch?v=n0ln_41Dq0g)
 [KNIME and Orange Quick Tutorial](https://youtu.be/R7FYypCUasc?t=2499)
@@ -15,12 +15,18 @@ I personally recommend you to start with Python 3.8+ (2.x versions are going to 
 Jupyter Notebook, numpy, pandas, matplotlib, spyder, seaborn and few others are installed along with Anaconda.
 If you have Python already installed set the environment variables properly.
 
-Installation Link
+Installation Link (Python 3.6v)
+```bash
+https://repo.anaconda.com/archive/
+```
+Search for 2021.05 and download the file for your OS!
+
+Installation Link (latest version)
 ```bash
 https://www.anaconda.com/products/individual#Downloads
 ```
 
-Instructions on installations
+Instructions on pre-requisites before installations
 ```bash
 https://docs.anaconda.com/anaconda/install/windows/
           
@@ -77,6 +83,23 @@ conda config --add channels bioconda
 conda config --add channels conda-forge
 ```
 
+## pip installation of compchem/cheminfo libraries with ML
+
+Pre-requisites
+'''bash
+pip install pandas seaborn mols2grid requests numpy yellowbrick PyTDC lightgbm tqdm fuzzywuzzy matplotlib plotly
+'''
+
+Molecular Descritor Calculators
+'''bash
+pip install rdkit-pypi selfies mordred padelpy
+'''
+
+Visualizers
+'''bash
+pip install nglview py3dmol widget_jsmol ipywidgets
+'''
+
 ## RDkit
 
 ```bash
@@ -100,7 +123,6 @@ pip install pyrama
 ```
 
 ## Gromacs
-
 
 
 ```bash
