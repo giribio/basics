@@ -86,19 +86,22 @@ conda config --add channels conda-forge
 ## pip installation of compchem/cheminfo libraries with ML
 
 Pre-requisites
-'''bash
+
+```bash
 pip install pandas seaborn mols2grid requests numpy yellowbrick PyTDC lightgbm tqdm fuzzywuzzy matplotlib plotly
-'''
+```
 
 Molecular Descritor Calculators
-'''bash
+
+```bash
 pip install rdkit-pypi selfies mordred padelpy
-'''
+```
 
 Visualizers
-'''bash
+
+```bash
 pip install nglview py3dmol widget_jsmol ipywidgets
-'''
+```
 
 ## RDkit
 
